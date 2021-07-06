@@ -97,7 +97,7 @@ namespace i2cio {
      * @param addr registor address, eg: 0x00
      * @param size read data count, eg: 16
      */
-    //% block="registor address %addr|read buf %size"
+    //% block="registor address %addr|read size %size"
     export function readBuf(addr: number, size: number): number[] {
         let retbuf:number[]=[];
 
