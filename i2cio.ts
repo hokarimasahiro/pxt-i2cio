@@ -1,7 +1,7 @@
 /**
  * i2cIO block
  */
-//% color=#008080 icon="\u2746" block="i2cio"
+//% color=#008080 icon="\u272a" block="i2cio"
 namespace i2cio {
     let I2C_ADDR = 0x10;
     /**
